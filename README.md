@@ -3,6 +3,18 @@
 **InstaAttend** is a modern, intelligent attendance management system that leverages barcode scanning and live face recognition to automate and streamline attendance marking. This project integrates a user-friendly Tkinter interface, providing a quick and seamless experience for identifying and verifying students. InstaAttend not only retrieves and displays student information dynamically but also marks attendance in an Excel sheet for record-keeping.
 
 ---
+## Contributors
+
+- **[NareshKanna S](https://www.linkedin.com/in/nareshkanna-shanmugam-a4462a269/)** - Barcode Scanning Module,collabrator
+- **[Prasath Raja K](www.linkedin.com/in/prasath-raja-k-5609aa25a)** -  Live Face Recognition and Tkinter UI Integration
+- **[Kishore K](https://www.linkedin.com/in/kishore-k-84b8b1269?trk=contact-info)** - Image and Details Retrieval Module
+- **[Selvam S](https://www.linkedin.com/in/selvam-s-b3b8a8269/)** - Attendance Marking Module
+
+- **[Karthikeyan](https://github.com/facultyusername)** - Mentor
+- **[Subhashri](https://github.com/facultyusername)** - Mentor
+
+
+
 
 ## ✨ Key Features
 
